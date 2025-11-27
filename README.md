@@ -15,6 +15,62 @@ Transportation operations require real-time visibility into booking patterns, re
 * Payment preference: 67% of customers use digital payment (Uber Pay, Amazon Pay, Google Pay) vs. 32.2% cash
 * Average trip metrics: $15 booking value, 3-mile distance, 16-minute duration
 
+## Business Recommendations
+#### 1. Operational Optimization
+**Finding:** Friday shows 48% lower bookings than weekend average. 
+
+**Recommendation:** Implement dynamic pricing with Friday incentives to balance weekly demand
+
+  * Offer 10-15% discount on Friday rides
+  * Send push notifications to frequent users on Thursday evening
+  * Partner with entertainment venues for Friday promotions
+
+**Expected Impact:** 20-30% increase in Friday bookings, improved driver utilization
+
+#### 2. Fleet Management
+**Finding:** UberX accounts for 37% of trips while premium services (Comfort, Black) are underutilized 
+
+**Recommendation:** Optimize vehicle mix based on demand patterns
+
+  * Reduce premium vehicle allocation during low-demand hours
+  * Convert some premium vehicles to UberX during peak periods
+  * Dynamic vehicle assignment based on real-time demand
+
+**Expected Impact:** $85K annual cost savings in fleet maintenance and positioning
+
+#### 3. Location-Based Strategy
+**Finding:** Penn Station generates 4.5K pickups but Upper East Side has limited coverage
+
+**Recommendation:** Strategic driver positioning system
+
+  * Incentivize drivers to stage near high-demand pickup zones
+  * Implement geofencing alerts for drivers approaching peak areas
+  * Partner with Penn Station for dedicated pickup zone
+
+**Expected Impact:** 15% reduction in average wait time, improved customer satisfaction
+
+#### 4. Payment Digitization
+**Finding:** 32% of rides still use cash payment
+
+**Recommendation:** Accelerate digital payment adoption
+
+  * Offer first-ride digital payment bonus ($5 credit)
+  * Streamline in-app payment process
+  * Educational campaign highlighting digital payment benefits
+
+**Expected Impact:** Reduce cash handling costs, improve transaction speed, decrease fraud risk
+
+#### 5. Weekend Capacity Planning
+**Finding:** 2X surge in weekend bookings vs. Friday
+
+**Recommendation:** Weekend-specific driver incentive program
+
+  * Saturday/Sunday peak hour bonuses (+25% earnings)
+  * Advance driver scheduling system
+  * Recruit part-time weekend drivers
+
+**Expected Impact:** Reduce surge pricing instances, capture unmet weekend demand estimated at $120K monthly
+
 ## Dashboard Overview
 ### Navigation Structure
 The dashboard consists of three main sections accessible via the left sidebar:
@@ -127,62 +183,6 @@ The dashboard consists of three main sections accessible via the left sidebar:
   * Pick Up Location (neighborhood)
   * Drop Off Location (neighborhood)
   * Total Bookings (aggregated count)
-
-## Business Recommendations
-#### 1. Operational Optimization
-**Finding:** Friday shows 48% lower bookings than weekend average. 
-
-**Recommendation:** Implement dynamic pricing with Friday incentives to balance weekly demand
-
-  * Offer 10-15% discount on Friday rides
-  * Send push notifications to frequent users on Thursday evening
-  * Partner with entertainment venues for Friday promotions
-
-**Expected Impact:** 20-30% increase in Friday bookings, improved driver utilization
-
-#### 2. Fleet Management
-**Finding:** UberX accounts for 37% of trips while premium services (Comfort, Black) are underutilized 
-
-**Recommendation:** Optimize vehicle mix based on demand patterns
-
-  * Reduce premium vehicle allocation during low-demand hours
-  * Convert some premium vehicles to UberX during peak periods
-  * Dynamic vehicle assignment based on real-time demand
-
-**Expected Impact:** $85K annual cost savings in fleet maintenance and positioning
-
-#### 3. Location-Based Strategy
-**Finding:** Penn Station generates 4.5K pickups but Upper East Side has limited coverage
-
-**Recommendation:** Strategic driver positioning system
-
-  * Incentivize drivers to stage near high-demand pickup zones
-  * Implement geofencing alerts for drivers approaching peak areas
-  * Partner with Penn Station for dedicated pickup zone
-
-**Expected Impact:** 15% reduction in average wait time, improved customer satisfaction
-
-#### 4. Payment Digitization
-**Finding:** 32% of rides still use cash payment
-
-**Recommendation:** Accelerate digital payment adoption
-
-  * Offer first-ride digital payment bonus ($5 credit)
-  * Streamline in-app payment process
-  * Educational campaign highlighting digital payment benefits
-
-**Expected Impact:** Reduce cash handling costs, improve transaction speed, decrease fraud risk
-
-#### 5. Weekend Capacity Planning
-**Finding:** 2X surge in weekend bookings vs. Friday
-
-**Recommendation:** Weekend-specific driver incentive program
-
-  * Saturday/Sunday peak hour bonuses (+25% earnings)
-  * Advance driver scheduling system
-  * Recruit part-time weekend drivers
-
-**Expected Impact:** Reduce surge pricing instances, capture unmet weekend demand estimated at $120K monthly
 
 ## How to Use This Dashboard
 #### For Executives
