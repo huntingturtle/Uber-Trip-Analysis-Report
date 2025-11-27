@@ -208,7 +208,7 @@ The dashboard consists of three main sections accessible via the left sidebar:
 
 #### For Marketing Teams
 
-Study location data to target high-value neighborhoods
-Analyze payment preferences for promotion strategies
-Identify underperforming days for campaign focus
-Segment customers by trip patterns and preferences
+1. Study location data to target high-value neighborhoods
+2. Analyze payment preferences for promotion strategies
+3. Identify underperforming days for campaign focus
+4. Segment customers by trip patterns and preferences
